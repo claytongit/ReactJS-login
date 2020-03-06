@@ -1,0 +1,17 @@
+form{
+    width: 30%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form button{
+    height: 30px;
+    margin-top: 10px;
+}
+
+form button{    
+    border: none;
+    background: rgb(25, 25, 53);
+    color: #FFF;
+}
